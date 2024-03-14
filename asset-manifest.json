@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cruder/static/css/main.022ecaf2.css",
+    "main.js": "/cruder/static/js/main.3a398731.js",
+    "static/js/453.419a5d54.chunk.js": "/cruder/static/js/453.419a5d54.chunk.js",
+    "index.html": "/cruder/index.html",
+    "main.022ecaf2.css.map": "/cruder/static/css/main.022ecaf2.css.map",
+    "main.3a398731.js.map": "/cruder/static/js/main.3a398731.js.map",
+    "453.419a5d54.chunk.js.map": "/cruder/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.022ecaf2.css",
+    "static/js/main.3a398731.js"
+  ]
+}
